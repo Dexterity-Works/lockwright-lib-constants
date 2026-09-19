@@ -19,7 +19,7 @@ One module of constants used across the Lockwright package repos.
 ## Install
 
 ```bash
-npm install git+https://github.com/Thaoh/lockwright-lib-constants.git
+npm install git+https://github.com/Dexterity-Works/lockwright-lib-constants.git
 ```
 
 Imports stay `@tetherto/pearpass-lib-constants`. That npm name is not this fork if you install it from the npm registry.
@@ -164,9 +164,9 @@ No production dependencies.
 
 ## Related Projects
 
-- [lockwright-app-mobile](https://github.com/Thaoh/lockwright-app-mobile)
-- [lockwright-app-browser-extension](https://github.com/Thaoh/lockwright-app-browser-extension)
-- [lockwright-app-desktop](https://github.com/Thaoh/lockwright-app-desktop)
+- [lockwright-app-mobile](https://github.com/Dexterity-Works/lockwright-app-mobile)
+- [lockwright-app-browser-extension](https://github.com/Dexterity-Works/lockwright-app-browser-extension)
+- [lockwright-app-desktop](https://github.com/Dexterity-Works/lockwright-app-desktop)
 
 ## Contributing
 

@@ -12,7 +12,7 @@
     "test": "node --test src/constants/*.test.js"
   },
   "devDependencies": {
-    "@tetherto/tether-dev-docs": "github:tetherto/tether-dev-docs",
+    "@tetherto/tether-dev-docs": "github:Dexterity-Works/tether-dev-docs",
     "eslint": "^9.39.4",
     "husky": "^9.1.7"
   }
