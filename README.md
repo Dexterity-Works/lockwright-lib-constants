@@ -10,8 +10,6 @@ Site: [lockwright.dexterity.works](https://lockwright.dexterity.works)
 
 Community fork of PearPass (Apache 2.0). Not affiliated with or endorsed by Tether Data or the Pears project.
 
-PearPass upstream paused active development. This fork continues that work.
-
 ## Features
 
 One module of constants used across the Lockwright package repos.
