@@ -20,7 +20,7 @@ One module of constants used across the Lockwright package repos.
 npm install git+https://github.com/Dexterity-Works/lockwright-lib-constants.git
 ```
 
-Imports stay `@tetherto/pearpass-lib-constants`. That npm name is not this fork if you install it from the npm registry.
+The package name is `lockwright-lib-constants`.
 
 ## Testing
 
@@ -137,7 +137,7 @@ import {
   AUTO_LOCK_TIMEOUT_OPTIONS,
   AUTHENTICATOR_ENABLED,
   CLIPBOARD_CLEAR_TIMEOUT
-} from '@tetherto/pearpass-lib-constants';
+} from 'lockwright-lib-constants';
 
 // Time arithmetic
 function isOlderThanADay(timestamp) {
